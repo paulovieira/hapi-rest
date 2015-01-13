@@ -1,0 +1,1342 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"strin",
+				"stringify"
+			],
+			[
+				"res",
+				"resourcePath"
+			],
+			[
+				"acc",
+				"accessToken"
+			],
+			[
+				"cre",
+				"createTextSql"
+			],
+			[
+				"fixedTex",
+				"fixedTextSql"
+			],
+			[
+				"fixedTe",
+				"fixedText"
+			],
+			[
+				"fix",
+				"fixedText"
+			],
+			[
+				"in",
+				"internalLangCode"
+			],
+			[
+				"pre",
+				"prerequisite"
+			],
+			[
+				"innerVi",
+				"innerViewRegion"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"create",
+				"_createInstances2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/index.html",
+			"settings":
+			{
+				"buffer_size": 511,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "node_modules/hapi-nunjucks/index.js",
+			"settings":
+			{
+				"buffer_size": 1175,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/test_api_client.js",
+			"settings":
+			{
+				"buffer_size": 459,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 2404,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "api/countries.js",
+			"settings":
+			{
+				"buffer_size": 9447,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/countries.js",
+			"settings":
+			{
+				"buffer_size": 655,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "backbone-pg/index.js",
+			"settings":
+			{
+				"buffer_size": 3274,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "node_modules/backbone/backbone.js",
+			"settings":
+			{
+				"buffer_size": 60997,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "readme.md",
+			"settings":
+			{
+				"buffer_size": 9324,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/pvieira/jsLab/hapi-rest/node_modules/hapi-nunjucks/index.js",
+		"/home/pvieira/jsLab/hapi-rest/dbSettings.js",
+		"/home/pvieira/jsLab/hapi-rest/models/countries.js",
+		"/home/pvieira/jsLab/hapi-rest/api/resource.js",
+		"/home/pvieira/jsLab/hapi-rest/api/countries.js",
+		"/home/pvieira/jsLab/hapi-rest/package.json",
+		"/home/pvieira/jsLab/hapi-rest/api/countriesC.js",
+		"/home/pvieira/jsLab/hapi-rest/node_modules/hapi/lib/validation.js",
+		"/home/pvieira/jsLab/hapi-rest/backbone-pg.js",
+		"/home/pvieira/jsLab/hapi-rest/node_modules/backbone/backbone.js",
+		"/home/pvieira/jsLab/hapi-rest/api/books2.js",
+		"/home/pvieira/jsLab/hapi-rest/api/index.js",
+		"/home/pvieira/clima-madeira/server_141114/client/css/main.css",
+		"/home/pvieira/clima-madeira/server_141114/node_modules/hapi-nunjucks/index.js",
+		"/home/pvieira/clima-madeira/server_141114/server/views/includes/header_landing.html",
+		"/home/pvieira/clima-madeira/server_141114/server/views/layouts/default.html",
+		"/home/pvieira/clima-madeira/server_141114/server/views/vulnerabilidades.html",
+		"/home/pvieira/clima-madeira/server_141114/server/config/settings.js",
+		"/home/pvieira/clima-madeira/server_141114/server.js",
+		"/home/pvieira/clima-madeira/server_141114/server/config/assets.js",
+		"/home/pvieira/clima-madeira/server_141114/client/js/mapa1.js",
+		"/home/pvieira/clima-madeira/server_141114/server/db/seed_data/home_texts_data.json",
+		"/home/pvieira/clima-madeira/server_141114/server/handlers/sectores.js",
+		"/home/pvieira/clima-madeira/server_141114/server/views/includes/footer.html",
+		"/home/pvieira/clima-madeira/server_141114/server/views/introducao.html",
+		"/home/pvieira/clima-madeira/server_141114/server/db/db.js",
+		"/home/pvieira/clima-madeira/server_141114/server/config/databaseSettings.js",
+		"/home/pvieira/clima-madeira/server_141114/server/db/seed_data/fixed_texts_data.json",
+		"/home/pvieira/clima-madeira/server_141114/client/css/bootstrap.css",
+		"/home/pvieira/clima-madeira/server_141114/server/views/dashboard.html",
+		"/home/pvieira/clima-madeira/server_141114/package.json",
+		"/home/pvieira/jsLab/makemehapi/templates/uploadForm.html",
+		"/home/pvieira/jsLab/makemehapi/05.js",
+		"/home/pvieira/jsLab/makemehapi/11.js",
+		"/home/pvieira/jsLab/makemehapi/03.js",
+		"/home/pvieira/jsLab/makemehapi/04.js",
+		"/home/pvieira/jsLab/makemehapi/06.js",
+		"/home/pvieira/jsLab/makemehapi/pursuit.txt",
+		"/home/pvieira/clima-madeira/server_141114/server/db/seed_data/insert_texts.sh",
+		"/home/pvieira/clima-madeira/server_141114/server/db/seed_data/insert_texts.js",
+		"/home/pvieira/clima-madeira/server_141114/server/db/seed_data/insert_texts_psql.js",
+		"/home/pvieira/Dropbox/NOTAS/PostgreSQL/02_texts.sql",
+		"/home/pvieira/clima-madeira/server_141114/server/db/seed_data/insert_texts2.js",
+		"/home/pvieira/clima-madeira/server_141114/update_texts.sh",
+		"/home/pvieira/clima-madeira/server_141114/server/views/macros/grupo.html",
+		"/home/pvieira/clima-madeira/server_141114/server/views/_DELETE_loginFailed.html",
+		"/home/pvieira/clima-madeira/server_141114/server/views/helloWorld.html",
+		"/home/pvieira/clima-madeira/server_141114/server/views/about.html",
+		"/home/pvieira/clima-madeira/server_141114/server/views/login.html",
+		"/home/pvieira/clima-madeira/server_141114/server/views/macros/sector.html",
+		"/home/pvieira/clima-madeira/server_141114/server/views/index.html",
+		"/home/pvieira/Dropbox/NOTAS/PostgreSQL/01_users_groups.sql",
+		"/home/pvieira/clima-madeira/server_141114/server/db/seed_data/content_texts_data.json",
+		"/home/pvieira/clima-madeira/server_141114/server/config/registerPlugins.js",
+		"/home/pvieira/Dropbox/NOTAS/PostgreSQL/00_audit.sql",
+		"/home/pvieira/clima-madeira/server_141114/server/config/addPrerequisites.js",
+		"/home/pvieira/clima-madeira/server_141114/server/views/includes/head.html",
+		"/home/pvieira/clima-madeira/server_141114/server/controllers/base.js",
+		"/home/pvieira/clima-madeira/server_141114/node_modules/hapi-auth-cookie/example/index.js",
+		"/home/pvieira/clima-madeira/server_141114/server/views/404.html",
+		"/home/pvieira/clima-madeira/flipr/revert/appschema.sql",
+		"/home/pvieira/clima-madeira/flipr/deploy/appschema.sql",
+		"/home/pvieira/jsLab/node-mandrill/example.js",
+		"/home/pvieira/github/hapi_pre_bug/index.js",
+		"/home/pvieira/clima-madeira/server_141114/server/controllers/assets.js",
+		"/home/pvieira/clima-madeira/server_141114/server/views/loginForm.html",
+		"/home/pvieira/Dropbox/NOTAS/PostgreSQL/test_users_groups_141031.sql",
+		"/home/pvieira/WorkshopPostGIS/postgis-workshop/postgis-workshop.sql",
+		"/home/pvieira/WorkshopPostGIS/postgis-workshop/p",
+		"/home/pvieira/jsLab/Marionette.Component/Marionette.Component.js",
+		"/home/pvieira/jsLab/Marionette.Component/marionette_notes",
+		"/home/pvieira/jsLab/Marionette.Component/app.js",
+		"/home/pvieira/jsLab/Marionette.Component/index.html",
+		"/home/pvieira/jsLab/Marionette.Component/README.md",
+		"/home/pvieira/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/pvieira/Dropbox/NOTAS/PostgreSQL/boundless_workshop.md",
+		"/home/pvieira/Dropbox/PACKAGES_UBUNTU.md",
+		"/home/pvieira/Dropbox/NOTAS/PostgreSQL/fixed_texts_141105_views.sql",
+		"/home/~",
+		"/home/pvieira/Dropbox/NOTAS/Sublime/NOTAS_sublime_text.md",
+		"/home/pvieira/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/pvieira/jsLab/Marionette.Component/app3.js",
+		"/home/pvieira/jsLab/hapi_cafe/step1.js",
+		"/home/pvieira/jsLab/bug1970/libs/backbone.js",
+		"/home/pvieira/jsLab/Marionette.Component/libs/jquery.js",
+		"/home/pvieira/github/backbone-testing/chapters/01/test/test.html",
+		"/home/pvieira/jsLab/hapi_cafe/views/layout/_layout1.html",
+		"/home/pvieira/jsLab/hapi_cafe/views/index.html",
+		"/home/pvieira/jsLab/hapi_cafe/templates/coffee.html",
+		"/home/pvieira/jsLab/bug1970/libs/backbone.marionette-minor-141002.js",
+		"/home/pvieira/jsLab/bug1970/1970.html",
+		"/home/pvieira/jsLab/Marionette.Component/libs/backbone.marionette-master-140921.js",
+		"/home/pvieira/jsLab/bug1970/1970.js",
+		"/home/pvieira/jsLab/Marionette.Component/libs/backbone.marionette-minor-141002.js",
+		"/home/pvieira/github/backbone-testing/chapters/01/test/js/spec/hello.spec.js",
+		"/home/pvieira/Documents/NOTAS/BackboneJS testing/BackboneJS_testing.md",
+		"/home/pvieira/jsLab/stickit/index.html",
+		"/home/pvieira/jsLab/stickit/app_stickit.js",
+		"/home/pvieira/jsLab/Real-Time HTML5 with Node/helloworld3.js",
+		"/home/pvieira/jsLab/Real-Time HTML5 with Node/03.js",
+		"/home/pvieira/jsLab/Real-Time HTML5 with Node/node_modules/asynquence/package.json",
+		"/home/pvieira/jsLab/Marionette.Component/libs/css/bootstrap.css",
+		"/home/pvieira/jsLab/Marionette.Component/libs/underscore.js",
+		"/home/pvieira/jsLab/stickit/libs/backbone.stickit.js",
+		"/home/pvieira/jsLab/Real-Time HTML5 with Node/node_modules/minimist/index.js",
+		"/home/pvieira/jsLab/Marionette.Component/libs/backbone.stickit.js",
+		"/home/pvieira/github/backbone-testing/chapters/01/test/test",
+		"/home/pvieira/jsLab/Marionette.Component/libs/bootstrap.js",
+		"/home/pvieira/jsLab/Marionette.Component/libs/backbone.js",
+		"/home/pvieira/jsLab/Marionette.Component/libs/backbone.marionette-minor.js",
+		"/home/pvieira/github/backbone.marionette/src/marionette.region.js",
+		"/home/pvieira/jsLab/Marionette.Component/libs/backbone.marionette-v2.js",
+		"/home/pvieira/github/backbone.marionette/src/marionette.helpers.js",
+		"/home/pvieira/github/backbone.marionette/src/marionette.collectionview.js",
+		"/home/pvieira/jsLab/Marionette.Component/queue.js",
+		"/home/pvieira/jsLab/Marionette.Component/libs/backbone.",
+		"/home/pvieira/github/backbone.marionette/Gruntfile.js",
+		"/etc/postgresql/9.4/main/pg_hba.conf",
+		"/home/pvieira/github/backbone.marionette/src/marionette.view.js",
+		"/home/pvieira/jsLab/Marionette.Component/libs/backbone.marionette-v2.1.js",
+		"/home/pvieira/jsLab/Marionette.Component/libs/backbone.marionette-v2.2.js",
+		"/home/pvieira/jsLab/browserify2/build/out5.js",
+		"/home/pvieira/jsLab/browserify2/Gruntfile.js",
+		"/home/pvieira/jsLab/browserify2/package.json",
+		"/home/pvieira/jsLab/browserify2/build/out.js",
+		"/home/pvieira/Documents/sublime_projects/main.sublime-project",
+		"/home/pvieira/jsLab/node-postgres/appp.js",
+		"/home/pvieira/Downloads/Masters of Sex Season 1 Complete 720p.Web.Dl.Sujaidr/masters.of.sex.s01e01.pilot.720p.web-dl.x264.sujaidr.srt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"completeModelSchema",
+			"obj.",
+			"odelSchem",
+			"idSchema",
+			"modelsc",
+			"idSchema",
+			"baseModelSchema",
+			".ids",
+			"var boomErr = parseError(err)",
+			"var boomErr = parseError(err),",
+			"parseerr",
+			"text: \"select * from users_read_all()\",",
+			"errorha",
+			"errorhan",
+			"values:",
+			"loda",
+			"parseerr",
+			"msg",
+			"parseErrMsg",
+			"error:",
+			"\\n",
+			"isDbError",
+			".parse",
+			"attrs",
+			"attribu",
+			"delete ",
+			".reset",
+			".parse",
+			"reset",
+			"parse:",
+			".parse",
+			"reset:",
+			"parse:",
+			".parse",
+			"parse",
+			"first",
+			"query.values",
+			" || {}",
+			"options || {}",
+			"options = options || {}",
+			"params",
+			"save:",
+			"urlerror",
+			"backbon",
+			"collection",
+			"model",
+			"method",
+			"options.error",
+			"options.err",
+			"model",
+			"fetch:",
+			"fetch.",
+			"wraperr",
+			"fetch:",
+			"query",
+			"options || (options = {});",
+			"|| {",
+			"urlerror",
+			"processdata",
+			"Backbone.ajax",
+			"methodmap",
+			"countries",
+			"ountries",
+			"resourcedefi",
+			"resourceoptions",
+			"root",
+			"rooto",
+			"root",
+			"version",
+			"Joi.number().integer().min(1)",
+			"Joi.",
+			"(err.message",
+			"(err.message,",
+			"Boom.badImplementation",
+			"return next(Boom.badImplementation",
+			"response",
+			"response(",
+			"input(",
+			"boom.",
+			"postvalida",
+			"error",
+			"array",
+			"request",
+			"validatepa",
+			"trim",
+			"{id",
+			"joi",
+			"book",
+			"id par",
+			"{id",
+			"{id}",
+			"names",
+			"namescountries",
+			"/names",
+			"resourceName",
+			"nted.\");  // 405",
+			"ed(\"Sorry, not yet implemented.\")",
+			".\");\n",
+			"notImplemented(\"Sorry, not yet implemented.\");",
+			"ed(\"Sorry, not yet implemented.\")",
+			"routetab",
+			"Books",
+			"selected",
+			"id",
+			"array()",
+			"id",
+			"api",
+			"-5",
+			"120p",
+			"geometr",
+			"ArqMadeira_AAd_CAOP2014",
+			".js",
+			"'",
+			"        '",
+			"scripts",
+			"energia",
+			"sectores",
+			"recursos_hidricos",
+			"saude",
+			"turismo",
+			"agricultura",
+			"energia",
+			"images/",
+			"\"i",
+			"Path\":",
+			"lan",
+			"ddd",
+			"energia"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								421,
+								421
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "node_modules/hapi-nunjucks/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								464,
+								464
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/test_api_client.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								206,
+								206
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2404,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1505,
+								1505
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 765.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "api/countries.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2343,
+								2343
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1105.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "models/countries.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								556,
+								556
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "backbone-pg/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1620,
+								1620
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 621.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "node_modules/backbone/backbone.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 60997,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31851,
+								31851
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 14310.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "readme.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9324,
+								9324
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 5938.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "hapi-rest.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/sublime_projects/main.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

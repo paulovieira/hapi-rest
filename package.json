@@ -1,0 +1,24 @@
+{
+  "name": "hapi-rest",
+  "version": "0.0.1",
+  "dependencies": {
+    "backbone": "^1.1.2",
+    "backbone-pg": "0.0.1",
+    "boom": "^2.6.1",
+    "change-case-keys": "0.0.2",
+    "hapi": "^8.0.0",
+    "hapi-nunjucks": "0.0.2",
+    "hapi-swagger": "^0.6.0",
+    "hoek": "^2.10.0",
+    "joi": "^5.0.2",
+    "lodash": "^2.4.1",
+    "pg": "^4.1.1",
+    "pg-native": "^1.7.1",
+    "pretty-error": "^1.1.1",
+    "q": "^1.1.2",
+    "require-directory": "^2.0.0",
+    "underscore": "^1.7.0",
+    "underscore.string": "^2.4.0"
+  },
+  "devDependencies": {}
+}
